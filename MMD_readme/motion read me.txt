@@ -1,0 +1,45 @@
+Must read me!
+必须读我！
+
+included in download:wav file, model motion data.
+下载内容包含WAV音频文件，模型动作文件。
+
+1. "https://space.bilibili.com/7188941" the user download is forbidden. If I find out, I'll burn his computer. 
+禁止“https://space.bilibili.com/7188941”此用户下载。如果我发现他有，我会烧毁他的电脑。
+
+2. R18 is not allowed.
+禁止用于R18
+
+3. do not trade!
+不要交易！
+
+4. do not re-upload!
+不要二配！！！！
+
+5. Credits:
+All rights reserved by SEGA©/MARZA ANIMATION PLANET©
+Converted to mmd and vmd work by: WM86
+版权完全归SEGA©/MARZA ANIMATION PLANET©所有，由WM86提取转换为MMD可用的vmd数据
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+The original movement used a motion-capture skeleton (not a standard skeleton as MMD calls it), 
+and some methods were used to convert the motion-capture skeleton into data that could use transition bone (MMD's sub-standard skeleton).
+原动作使用动作捕捉用骨骼（非MMD所称的标准骨骼），使用一些方法将动作捕捉骨骼转为可以使用捩骨的数据（MMD的次标准骨骼）。
+
+Motion data use 28° Angle a-pose.
+动作数据使用28°角A-pose。
+
+Motion data used the foot IK bone.
+motion data使用了足IK骨骼。
+
+This data does not include facials data.
+此数据并没有包含表情数据。
+
+Please send センター and グルーブ in the same position, and adjust their y position.
+请将センター和グルーブ处于相同位置，并适当调节他们的y轴位置。
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Password prompt: Use the name of the game for this file.(All lowercase and no Spaces)
+密码提示：使用此文件的游戏名称。（全都小写并不要空格）
